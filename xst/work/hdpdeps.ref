@@ -1,0 +1,8 @@
+V3 3
+FL D:/Elektronika/FPGA/projekty/xilinx/down_counter/down_counter.vhd 2020/11/09.19:06:35 P.20131013
+EN work/down_counter 1604945197 \
+      FL D:/Elektronika/FPGA/projekty/xilinx/down_counter/down_counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/down_counter/Behavioral 1604945198 \
+      FL D:/Elektronika/FPGA/projekty/xilinx/down_counter/down_counter.vhd \
+      EN work/down_counter 1604945197
